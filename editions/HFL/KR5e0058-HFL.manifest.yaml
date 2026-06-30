@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0058/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5e0058/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重陽真人金關玉鎖訣
+  date: '2015-08-29 02:11:12.922995'
+  source:
+    repository: kanripo
+    path: KR5e0058
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0058_000-HFL.yaml, hash: 'sha256:acaf07aa22e1a1c8f989095d5dc404f4f847ddc20be51584cda46bf91a787c0d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0058_000-HFL.markers.yaml, hash: 'sha256:17d9aaf659a3c469ac81657c783b569a90d63d8f74386f72b499d0455309937b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0058_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 7371
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:4505bacb08024132fe37796eacbf2b3e2e5dc1e16bd35030984054732ad0fe50

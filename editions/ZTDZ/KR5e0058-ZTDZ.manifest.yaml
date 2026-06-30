@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0058/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5e0058/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重陽真人金關玉鎖訣
+  date: '2015-08-29 02:11:12.922995'
+  source:
+    repository: kanripo
+    path: KR5e0058
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0058_000-ZTDZ.yaml, hash: 'sha256:7d2b2bf1bd435ce93876a7b9fc600b89f6653724fa6deb4d739899237da0d891'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0058_000-ZTDZ.markers.yaml, hash: 'sha256:e17acfc2aa93700d22633c18a7c4b2c20908a02f996d76de66fdeaf58fd9ef83'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0058_SJB_000-250798c
+    span:
+    - body
+    - 0
+    - 7371
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:04a66a2d8c8637e631d0c3ec54f5707e45c74aea9086157384e2e33ce98008e9
